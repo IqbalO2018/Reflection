@@ -1,5 +1,5 @@
 # Reflection 1
-##2/2/2018
+## 2/2/2018
 This week I learned how touse python command endings like ".py" and also I 
 Learned how the new commands work to use bulliton points on github, using "#" before words and phrases.
 Also one important prospect i've reached is the ability to understand errors by looking at them and testing them with github. I can finally use github to my own advantage, and work at ease.  

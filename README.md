@@ -1,4 +1,4 @@
-# Reflection
+# Reflection 3
 ## 2/9/2018
 This week I learned how to use functions such as "string", "Boolean", and using algebraic functions to solve mathamatic problems. The most 
 important aspect of the mathamatic function we learned I beleive was the mathamatic functions. My personal favorite function is the variable, and raw
@@ -7,7 +7,7 @@ what is does.
 
 ---
 
-# Reflection 1
+# Reflection 2
 ## 2/2/2018
 This week I learned how touse python command endings like ".py" and also I 
 Learned how the new commands work to use bulliton points on github, using "#" before words and phrases.
@@ -15,7 +15,7 @@ Also one important prospect i've reached is the ability to understand errors by 
 
 ---
 
-# Refelction
+# Reflection 1
 ## 1/26/2018
 This week I had worked on using the commands that control the files and directories of the terminal on puTTy.
 An important process I learned was the way I add and remove directories. 

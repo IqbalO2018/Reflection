@@ -1,3 +1,12 @@
+# Reflection
+## 2/9/2018
+This week I learned how to use functions such as "string", "Boolean", and using algebraic functions to solve mathamatic problems. The most 
+important aspect of the mathamatic function we learned I beleive was the mathamatic functions. My personal favorite function is the variable, and raw
+input function mainly because they play a key role in eachothers work. In order to create a raw input you need to define a variable and figure out
+what is does. 
+
+---
+
 # Reflection 1
 ## 2/2/2018
 This week I learned how touse python command endings like ".py" and also I 
@@ -13,3 +22,5 @@ An important process I learned was the way I add and remove directories.
 To add a directory I need to type in "mkdir" and to remove is "rmdir".
 I learned to create a file typing "Touch" and then removing the file is Rm "file name".
 I've learned a lot this week!
+
+

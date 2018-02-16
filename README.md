@@ -8,11 +8,13 @@ To break this down, we made definitions for certain functions.
 The pypractice consisted of functions that broke down a word by letters and
 reversed the spelling as well. We made commands to make the user type in words
 and the program would break down the word, explain how many letters are in 
-the words, and skip certain letters to revers the spelling. Towards the end of
+the words, and skip certain letters to reverse the spelling. Towards the end of
 the week we created madlibs that also had strings in it to describe
-the nouns,verbs,adjectives, and names in order to tell the story. This changed
-the entire weeks progress because we had limited time to do our work, which
-challenged us to see how much work we get done in a time limit. 
+the nouns,verbs,adjectives, and names in order to tell the story. I learned how to make the madlibs actually work, and insert commands
+that the user can use to create there own story, and I also learned
+how easy this became when I kept repeating the process, and clones it.
+This changedthe entire weeks progress because we had limited time to do
+our work, which challenged us to see how much work we get done in a time limit. 
 
 ---
 

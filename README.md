@@ -1,3 +1,21 @@
+
+
+# Reflection 4
+## 2/16/18
+This week I learned tons of information on strings. The first practice we did 
+with string was making certain types of functions have variables.
+To break this down, we made definitions for certain functions.
+The pypractice consisted of functions that broke down a word by letters and
+reversed the spelling as well. We made commands to make the user type in words
+and the program would break down the word, explain how many letters are in 
+the words, and skip certain letters to revers the spelling. Towards the end of
+the week we created madlibs that also had strings in it to describe
+the nouns,verbs,adjectives, and names in order to tell the story. This changed
+the entire weeks progress because we had limited time to do our work, which
+challenged us to see how much work we get done in a time limit. 
+
+---
+
 # Reflection 3
 ## 2/9/2018
 This week I learned how to use functions such as "string", "Boolean", and using algebraic functions to solve mathamatic problems. The most 

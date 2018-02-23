@@ -1,4 +1,14 @@
+# Reflection 5
+## 2/23/18
+This week my class worked on multiple types of activites,such as using the 
+"and, or, else, if" commands. These helped us develope programs on our
+ practice documents. Like yesterday we made a grade calculator. We inputed the
+grade and it would convert it to a letter grade, for example if i type "80"
+it would give me a "B" this worked because we typed out code saying
+ "if grade is greater to or equal 80 then it is a "B". this really helped me 
+understand the total reason "and or and if" is used for.
 
+---
 
 # Reflection 4
 ## 2/16/18

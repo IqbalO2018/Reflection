@@ -1,3 +1,15 @@
+# Reflection 6
+## 3/1/2018
+This week most of my work was worked towrds homework5. It consisted of a lot
+of old code that we did before, but it all worked out. The important thing 
+i learned about python this week was the use of "if" and "else" clause. These
+clauses helped me a lot because they determined what my code will do and how everything willbe processed the way i want it to. If clause basically 
+determined "if": I make a variable do something, then I use "else" to make it
+do something "else" besides my "if" clause. 
+
+---
+
+
 # Reflection 5
 ## 2/23/18
 This week my class worked on multiple types of activites,such as using the 

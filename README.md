@@ -1,3 +1,13 @@
+#Reflection 7
+## 3/9/2018
+This week I mostly worked on my hw6, but I also learned how to use "while",
+ and "for" clause. These clauses are used for creating loops in the code 
+to repeat certain functions. I used this a lot in my hw6 code. This heled me 
+tremendously. The amount of work I also put in my project was very ampul, I 
+got very far in my Soduko project. 
+
+---
+
 # Reflection 6
 ## 3/1/2018
 This week most of my work was worked towrds homework5. It consisted of a lot

@@ -1,3 +1,12 @@
+#Reflection 8
+## 3/16/2018
+This week I learned how to use functions and creating "def" functions. 
+I also got a head start on my hw7. We have to create a code where it asks
+the user to enter a sentence with some CAPITAL words. The code is supposed
+to decifer the Capital words and print them out to the user. This will be a bit confusing, but sure of an adventure using some reliable resources. 
+
+---
+
 #Reflection 7
 ## 3/9/2018
 This week I mostly worked on my hw6, but I also learned how to use "while",

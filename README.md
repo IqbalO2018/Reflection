@@ -1,3 +1,16 @@
+#Reflection 9
+## 5/11/2018
+This week I got to work on multiple Kata codewar projects. One of the Kata's
+gave mea real challenge that I had to overcome. This Kata consisted of squaring
+integers in a string. This was hard because First I didn't know what to include
+in my function itself to square an integer and let alone, all the integers in 
+a sstring. Mr.Gold Gave me great advice on how to break down my confusion into chunks
+and search for small things at a time. slowly everything feel in place. So I
+take away from this week a great oppurtunity Mr.Gold has taught me to gain self
+proficiency in getting help. 
+
+---
+
 #Reflection 8
 ## 3/16/2018
 This week I learned how to use functions and creating "def" functions. 
